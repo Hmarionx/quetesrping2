@@ -1,0 +1,14 @@
+package fr.wildcodeschool.quetespring2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Quetespring2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Quetespring2Application.class, args);
+	}
+
+}
+
